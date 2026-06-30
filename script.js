@@ -13,6 +13,5 @@ console.log("Principal Amount: ₹" + P);
 console.log("Rate of Interest: " + r + "%");
 console.log("Time: " + t + " years");
 console.log("Amount: ₹" + A);
-console.log("The compound interest after " + t + " years is: " + A);
+console.log("The compound interest after " + t + " years is: " + );
 
-// 
